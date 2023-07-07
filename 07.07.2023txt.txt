@@ -1,0 +1,2 @@
+apache tomcat- app server - aplicatie care ruleaza in permanenta
+twitter bootstrap
